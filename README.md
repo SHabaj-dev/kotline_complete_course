@@ -14,13 +14,6 @@ This is a complete, hands-on Kotlin learning resource that takes you from absolu
 - **Hands-on Practice**: Work through practical exercises and mini-projects
 - **Best Practices**: Learn industry-standard coding practices and patterns
 
-### Course Structure:
-- **Module 1**: Kotlin Basics - Variables, functions, control flow
-- **Module 2**: Object-Oriented Programming - Classes, objects, inheritance
-- **Module 3**: Advanced Kotlin Features - Lambdas, coroutines, extensions
-- **Module 4**: Android Integration - Activities, fragments, UI development
-- **Module 5**: Real Projects - Build complete Android applications
-
 ## 🛠️ Prerequisites
 
 - Basic understanding of programming concepts (any language)
@@ -66,16 +59,6 @@ cd kotline_complete_course
 kotline_complete_course/
 ├── src/
 │   ├── _1_Basics_of_kotlin/     # ✅ Module 1: Kotlin Fundamentals (COMPLETED)
-│   │   ├── _1_Kotlin_Intro.kt   # Kotlin introduction and history
-│   │   ├── _2_Kotlin_Basics.kt  # Variables, operators, collections
-│   │   └── _3_DataTypes.kt      # Data types and null safety
-│   ├── _2_OOP_concepts/         # Module 2: Object-Oriented Programming
-│   ├── _3_Advanced_features/    # Module 3: Advanced Kotlin
-│   ├── _4_Android_integration/  # Module 4: Android Development
-│   └── _5_Real_projects/        # Module 5: Complete Projects
-├── exercises/                   # Practice exercises
-├── projects/                    # Complete Android projects
-└── resources/                   # Additional learning materials
 ```
 
 ## 🎓 Learning Path
