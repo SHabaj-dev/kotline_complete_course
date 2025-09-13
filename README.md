@@ -45,7 +45,8 @@ cd kotline_complete_course
 
 - ✅ **Module 1: Kotlin Fundamentals** - **COMPLETED**
   - Comprehensive coverage of Kotlin basics
-  - 3 detailed lesson files with examples
+  - 4 detailed lesson files with examples
+  - Complete null safety operators coverage
   - Ready for students to learn from
 
 - ✅ **Module 2: Conditional Expressions** - **COMPLETED**
@@ -92,7 +93,8 @@ kotline_complete_course/
 │   ├── _1_Basics_of_kotlin/           # ✅ Module 1: Kotlin Fundamentals (COMPLETED)
 │   │   ├── _1_Kotlin_Intro.kt         # Kotlin introduction and history
 │   │   ├── _2_Kotlin_Basics.kt        # Variables, operators, collections
-│   │   └── _3_DataTypes.kt            # Data types and null safety
+│   │   ├── _3_DataTypes.kt            # Data types and null safety
+│   │   └── _4_Null_Safety_Operators.kt # Null safety operators (?. !! ?: as?)
 │   ├── _2_Conditional_Expressions/    # ✅ Module 2: Conditional Expressions (COMPLETED)
 │   │   ├── 2.1_Basic_Conditionals.kt  # if-else and when statements
 │   │   └── 2.2_Advanced_Conditionals.kt # Nested conditions and advanced when
@@ -131,6 +133,7 @@ kotline_complete_course/
 - ✅ Collections (List, Set, Map - mutable and immutable)
 - ✅ Operators (arithmetic, logical, bitwise, etc.)
 - ✅ Null safety and nullable types
+- ✅ Null safety operators (?. !! ?: as? let also takeIf takeUnless)
 
 ### Phase 2: Control Flow and Functions (Weeks 3-4) ✅ **COMPLETED**
 - ✅ Conditional expressions (if-else, when)
